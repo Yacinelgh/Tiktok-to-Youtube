@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore l'environnement virtuel
+.venv/
+
+# Ignore les fichiers secrets
+client_secret.json
+token.pickle
