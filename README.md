@@ -1,7 +1,7 @@
 
 # TikTok to YouTube Uploader
 
-Un script Python qui permet de **télécharger vos propres vidéos TikTok** et de les **uploader automatiquement sur YouTube** avec un titre, une description et une visibilité personnalisée. Le projet inclut également une interface graphique simple pour ne pas avoir à utiliser la ligne de commande.
+Un script Python qui permet de **télécharger une vidéos TikTok** et de les **uploader automatiquement sur YouTube** avec un titre, une description et une visibilité personnalisée. Le projet inclut également une interface graphique simple pour ne pas avoir à utiliser la ligne de commande.
 
 ---
 
@@ -29,7 +29,7 @@ Un script Python qui permet de **télécharger vos propres vidéos TikTok** et d
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 1. Cloner le dépôt :
 
